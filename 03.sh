@@ -1,0 +1,1 @@
+echo "03_date_command"
